@@ -1,9 +1,6 @@
 import time
 import requests
 
-# base_url = "https://maps.googleapis.com/maps/api/geocode/json?address=University%20of%20new%20mexico&key=AIzaSyCiyYyM1C0QSwpkxUPH_mSEDFZnteFrrMk"
-
-
 # Response from Google contains ALL details of school location...
 # But we only want coordinates, parse info to get this only.
 def parsePackage(response):
@@ -28,7 +25,7 @@ def parsePackage(response):
 
 # appends school name & API_KEY to base_url (to send to api)
 def appendSchool(base_url, address):
-    API_KEY = "AIzaSyCiyYyM1C0QSwpkxUPH_mSEDFZnteFrrMk"
+    # API_KEY = INSERT YOUR API_KEY
 
     # API requires spaces to be replaced with "%20"
     address = address.split(" ")
