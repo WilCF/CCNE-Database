@@ -13,4 +13,4 @@ Format of database:
 * Format of "noCoord": university;city;state;NLN_AD;NLN_BSN;CCNE_BSN;CCNE_MSN;CCNE_DNP
 * Format of "Coord": latitude;longitude;university;city;state;NLN_AD;NLN_BSN;CCNE_BSN;CCNE_MSN;CCNE_DNP
 
-Database "CollegeOfNursingDatabasev2.0" last updated: 3/14/2022
+Database "CollegeOfNursingDatabasev2.0" (Coord and noCoord) last updated: 3/14/2022
