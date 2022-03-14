@@ -1,5 +1,6 @@
 # CCNE-TextExtractor
 A program designed to extract specific data from the CCNE website (Accredited University, City, State, Degree-Types)
+Link: https://directory.ccnecommunity.org/reports/accprog.asp
 
 # Usage
 Program used to quickly update our local database of accredited CCNE schools across the United States
