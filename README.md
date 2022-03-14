@@ -2,7 +2,7 @@
 A program designed to extract specific data from the CCNE website (Accredited University, City, State, Degree-Types)
 
 # Usage
-Program used to quickly update our local database of accredited CCNE schools across the country
+Program used to quickly update our local database of accredited CCNE schools across the United States
 
 # How it works
 The program pulls information from the website's HTML file and changes the extension to a .txt file. Changing the extension allows us to read the file normally and begin finding specific points of interest. We're concerned with finding the following information of each CCNE Accredited school:
