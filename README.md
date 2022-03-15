@@ -4,6 +4,8 @@ A program designed to extract specific data from the CCNE website (Accredited Un
 Link: https://directory.ccnecommunity.org/reports/accprog.asp
 
 ## Format of Database
+Database "CollegeOfNursingDatabasev2.0" (Coord and noCoord) last updated: 3/14/2022
+
 Format of database:
 * 1 School per line
 * "1" = true // has degree
@@ -13,4 +15,3 @@ Format of database:
 * Format of "noCoord": university;city;state;NLN_AD;NLN_BSN;CCNE_BSN;CCNE_MSN;CCNE_DNP
 * Format of "Coord": latitude;longitude;university;city;state;NLN_AD;NLN_BSN;CCNE_BSN;CCNE_MSN;CCNE_DNP
 
-Database "CollegeOfNursingDatabasev2.0" (Coord and noCoord) last updated: 3/14/2022
