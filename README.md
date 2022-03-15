@@ -1,5 +1,5 @@
 # CCNE-Database
-A program designed to extract specific data from the CCNE website (Accredited University, City, State, Degree-Types) as well as the latitude and longitude of each school. 
+A program designed to extract specific data from the CCNE website (Accredited University, City, State, Degree-Types) as well as the latitude and longitude of each school through Google's Geocoding API.
 
 Link: https://directory.ccnecommunity.org/reports/accprog.asp
 
