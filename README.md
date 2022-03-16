@@ -4,7 +4,7 @@ A program designed to extract specific data from the CCNE website (Accredited Un
 Link: https://directory.ccnecommunity.org/reports/accprog.asp
 
 ## Format of Database
-Database "CollegeOfNursingDatabasev2.0" (Coord and noCoord) last updated: 3/14/2022
+Databases last updated: 3/16/2022
 
 Format of database:
 * 1 School per line
@@ -16,8 +16,14 @@ Format of database:
 * Format of "Coord": latitude;longitude;university;city;state;NLN_AD;NLN_BSN;CCNE_BSN;CCNE_MSN;CCNE_DNP
 
 ## Databases
-* Excel Spreadsheet (w/ Coord): https://github.com/FerminRamos/CCNE-Database/blob/b638ea6733c34f7863b3a6ae15fdbc615c5ade7c/Colleges%20of%20Nursing_Coord.xlsx
-* Text file (w/ Coord): https://github.com/FerminRamos/CCNE-Database/blob/540420d6642d2d9fbb167bb47692470af7b80765/CollegesOfNursing_Coord.txt
+* Excel Spreadsheet (w/ Coordinates): [CollegesofNursing_Coord EXCEL]
+* Text file (w/ Coordinates): [CollegesofNursing_Coord Plain text]
 
-* Excel Spreadsheet (w/ no coord): https://github.com/FerminRamos/CCNE-Database/blob/9db6346c45a7c241cc95485dbca6c600e7807be2/Colleges%20of%20Nursing_noCoord.xlsx
-* Text file (w/ no Coord): https://github.com/FerminRamos/CCNE-Database/blob/c0deea77ede2f193698581d70bb0fd78983b25b1/CollegeOfNursing_noCoord.txt
+* Excel Spreadsheet (w/ no Coordinates): [CollegesofNursing_noCoord EXCEL]
+* Text file (w/ no Coordinates): [CollegesofNursing_noCoord Plain text]
+
+
+[CollegesofNursing_Coord EXCEL]: https://github.com/FerminRamos/CCNE-Database/blob/b638ea6733c34f7863b3a6ae15fdbc615c5ade7c/Colleges%20of%20Nursing_Coord.xlsx
+[CollegesofNursing_Coord Plain text]: https://github.com/FerminRamos/CCNE-Database/blob/540420d6642d2d9fbb167bb47692470af7b80765/CollegesOfNursing_Coord.txt
+[CollegesofNursing_noCoord EXCEL]: https://github.com/FerminRamos/CCNE-Database/blob/9db6346c45a7c241cc95485dbca6c600e7807be2/Colleges%20of%20Nursing_noCoord.xlsx
+[CollegesofNursing_noCoord Plain text]: https://github.com/FerminRamos/CCNE-Database/blob/c0deea77ede2f193698581d70bb0fd78983b25b1/CollegeOfNursing_noCoord.txt
