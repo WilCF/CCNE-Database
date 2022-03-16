@@ -55,7 +55,7 @@ def updateDataLine(data, latitude, longitude):
 
 
 # Open local database to retrieve school names
-with open("localDatabase - Copy.txt", 'r') as database, open("updatedLocalDatabase.txt", 'a') as updatedDatabase:
+with open("localDatabase.txt", 'r') as database, open("localDatabase_Coord.txt", 'a') as updatedDatabase:
     finishedIterating = False
     while not finishedIterating:
         # Read in next line in database
