@@ -20,5 +20,4 @@ Format of database:
 * Text file (w/ Coord): https://github.com/FerminRamos/CCNE-Database/blob/540420d6642d2d9fbb167bb47692470af7b80765/CollegesOfNursing_Coord.txt
 
 * Excel Spreadsheet (w/ no coord): https://github.com/FerminRamos/CCNE-Database/blob/9db6346c45a7c241cc95485dbca6c600e7807be2/Colleges%20of%20Nursing_noCoord.xlsx
-* Text file (w/ no Coord): https://github.com/FerminRamos/CCNE-Database/blob/540420d6642d2d9fbb167bb47692470af7b80765/CollegeOfNursingDatabasev2.0_noCoord.txt
-
+* Text file (w/ no Coord): https://github.com/FerminRamos/CCNE-Database/blob/c0deea77ede2f193698581d70bb0fd78983b25b1/CollegeOfNursing_noCoord.txt
