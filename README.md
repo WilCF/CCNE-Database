@@ -15,3 +15,6 @@ Format of database:
 * Format of "noCoord": university;city;state;NLN_AD;NLN_BSN;CCNE_BSN;CCNE_MSN;CCNE_DNP
 * Format of "Coord": latitude;longitude;university;city;state;NLN_AD;NLN_BSN;CCNE_BSN;CCNE_MSN;CCNE_DNP
 
+## Databases
+* Excel Spreadsheet (w/ Coord): Colleges of Nursing_Coord.xlsx
+* 
