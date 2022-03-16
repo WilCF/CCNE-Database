@@ -17,4 +17,8 @@ Format of database:
 
 ## Databases
 * Excel Spreadsheet (w/ Coord): https://github.com/FerminRamos/CCNE-Database/blob/b638ea6733c34f7863b3a6ae15fdbc615c5ade7c/Colleges%20of%20Nursing_Coord.xlsx
-* 
+* Text file (w/ Coord): https://github.com/FerminRamos/CCNE-Database/blob/540420d6642d2d9fbb167bb47692470af7b80765/CollegesOfNursing_Coord.txt
+
+* Excel Spreadsheet (w/ no coord):
+* Text file (w/ no Coord): https://github.com/FerminRamos/CCNE-Database/blob/540420d6642d2d9fbb167bb47692470af7b80765/CollegeOfNursingDatabasev2.0_noCoord.txt
+
