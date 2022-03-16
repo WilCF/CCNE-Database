@@ -2,7 +2,7 @@ import time
 import requests
 
 # Response from Google contains ALL details of school location...
-# But we only want coordinates, parse info to get this only.
+# But we only want coordinates, search through info to get this only.
 def parsePackage(response):
     # 2 Main Types: Error or OK
     response.keys()
@@ -15,9 +15,7 @@ def parsePackage(response):
         longitude = geometry['location']['lng']
 
         location = str(latitude) + ";" + str(longitude)
-        # print("Response Location: ", location)
     else:
-        # print("[SERVER RESPONSE ERROR: ", response['status'], "]")
         location = "SERVER RESPONSE ERROR"
 
     return location
@@ -75,8 +73,8 @@ with open("localDatabase - Copy.txt", 'r') as database, open("updatedLocalDataba
             coordinates = coordinates.split(";")
             latitude = coordinates[0]
             longitude = coordinates[1]
-
-            # TODO: Write to database
+            
+            # Print to console, so it looks cool. Feel free to remove.
             print("School: ", school)
             print("Latitude: ", latitude)
             print("Longitude: ", longitude)
@@ -85,7 +83,8 @@ with open("localDatabase - Copy.txt", 'r') as database, open("updatedLocalDataba
             print("Updated Dataline: ", data)
             print()
             updatedDatabase.write(data)
-
+            
+            # Prevents an influx of calls to the API. Units = seconds
             time.sleep(1)
         else:
             # If school exception found -> VOID finishedIterating
@@ -109,11 +108,13 @@ with open("localDatabase - Copy.txt", 'r') as database, open("updatedLocalDataba
             for e in exceptions:
                 if school.find(e) != -1:
                     finishedIterating = False
+                    
+                    # Print to console, so it looks cool. Feel free to remove.
                     print("School: ", school)
                     print("Latitude: **N/A**")
                     print("Longitude: **N/A**")
 
-                    data = updateDataLine(dataLine, "**N/A**", "**N/A**")
+                    data = updateDataLine(dataLine, "0", "0")
                     updatedDatabase.write(data)
                     break
                 else:
