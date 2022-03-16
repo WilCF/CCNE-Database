@@ -16,5 +16,5 @@ Format of database:
 * Format of "Coord": latitude;longitude;university;city;state;NLN_AD;NLN_BSN;CCNE_BSN;CCNE_MSN;CCNE_DNP
 
 ## Databases
-* Excel Spreadsheet (w/ Coord): Colleges of Nursing_Coord.xlsx
+* Excel Spreadsheet (w/ Coord): https://github.com/FerminRamos/CCNE-Database/blob/b638ea6733c34f7863b3a6ae15fdbc615c5ade7c/Colleges%20of%20Nursing_Coord.xlsx
 * 
