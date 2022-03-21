@@ -16,7 +16,7 @@ The program pulls information from the website's HTML file and changes the exten
 We will also need the Latitude and Longitude of each CCNE Accredited school, but that information is not found on the CCNE website. We tackle this problem in a later phase of our operations through the Google Geocoding API (Look at Geocoding.py for more information). 
 ## 1. Identifying "University Name"
 To pull out "University Name" from the HTML code, we simply iterate throughout the HTML.txt file for a line that contains the following code:
-* [INSERT CODE SNIPPET]
+* ```<td valign="top" style="width: 50%;padding-right:15px">```
 
 Once our program detects this line, we can start to break the HTML code apart to isolate our information. 
 The format of the code for the "University Name" is always found in this form:
