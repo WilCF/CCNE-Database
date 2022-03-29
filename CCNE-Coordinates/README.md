@@ -1,12 +1,12 @@
 # CCNE-Coordinates
 Coordinates for each school were created using Google's Geocoding API.
 
-Link to Documentation: [Geocoding-API]
+Link to Documentation: [https://developers.google.com/geocoding]
 
-Link to API_KEYS Tutorial: [API_KEY]
+Link to API_KEYS Tutorial: [https://developers.google.com/get-api-key]
 
-[Geocoding-API]: https://developers.google.com/maps/documentation/geocoding/overview
-[API_KEY]: https://developers.google.com/maps/documentation/geocoding/get-api-key
+[https://developers.google.com/geocoding]: https://developers.google.com/maps/documentation/geocoding/overview
+[https://developers.google.com/get-api-key]: https://developers.google.com/maps/documentation/geocoding/get-api-key
 
 
 ## Getting Started
