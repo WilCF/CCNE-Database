@@ -16,8 +16,4 @@ Format of database:
 * Format of "Coord": latitude;longitude;university;city;state;NLN_AD;NLN_BSN;CCNE_BSN;CCNE_MSN;CCNE_DNP
 
 ## Databases
-* Excel Spreadsheet (w/ Coordinates): [CollegesofNursing_Coord EXCEL]
-* Text file (w/ Coordinates): [CollegesofNursing_Coord Plain text]
-
-* Excel Spreadsheet (w/ no Coordinates): [CollegesofNursing_noCoord EXCEL]
-* Text file (w/ no Coordinates): [CollegesofNursing_noCoord Plain text]
+(New Fixed Links Comming Soon!)
