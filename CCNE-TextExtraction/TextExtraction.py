@@ -16,7 +16,7 @@ def cleanCityState(sentence):
     x = sentence.split("<BR>")
 
     # INFO contains "INFO<br>Extra_Stuff", parse & remove
-    print("     PARSE-Line: ", x)
+    # print("     PARSE-Line: ", x)
     x[2] = x[2].split("<br>")
     sentence = x[2][0]
 
@@ -90,6 +90,12 @@ with open("rawHTML.txt", "r") as file, open("localDatabase.txt", "w") as dataBas
             del x[0]
             del x[len(x) - 1]
             line = " ".join(x)
+
+            # Check that University doesn't have a comma, since exporting to .csv format
+            if line.find(",") != -1:
+                line = '"' + line + '"'
+                print(line)
+
             print("University: ", line)
 
             # Send to storage (later inserted to local database)
@@ -101,7 +107,6 @@ with open("rawHTML.txt", "r") as file, open("localDatabase.txt", "w") as dataBas
             line = nextLine(file)
             while line.find("href=") == -1:
                 line = nextLine(file)
-            print(line)
             countBR = 1  # Unused VAR, remove.
 
             # Remove unwanted strings (ONLY need 3rd index from line)
@@ -133,9 +138,9 @@ with open("rawHTML.txt", "r") as file, open("localDatabase.txt", "w") as dataBas
             print("     Post-Graduate APRN Certificate: ", storage[8])
 
             # Writes to local database
-            dataBase.write(storage[0]+";"+storage[1]+";"+storage[2]+";")
-            dataBase.write(storage[3]+";"+storage[4]+";"+storage[5]+";")
-            dataBase.write(storage[6]+";"+storage[7]+";"+storage[8])
+            dataBase.write(storage[0]+","+storage[1]+","+storage[2]+",")
+            dataBase.write(storage[3]+","+storage[4]+","+storage[5]+",")
+            dataBase.write(storage[6]+","+storage[7]+","+storage[8])
 
             dataBase.write("\n")
 
