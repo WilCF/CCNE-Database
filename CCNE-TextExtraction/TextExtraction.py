@@ -32,40 +32,40 @@ def cleanCityState(sentence):
 
 # grabs degrees from a single school
 def getDegreeTypes(file):
-    degreeTypes = ["0", "0", "0"]
-    sentence = file.readline()
+    degreeTypes = ["0", "0", "0", "0"]
+    degree = file.readline()
     # Iterate unless we hit end of school description (DO NOT CHOP!)
-    while sentence.find('<td valign="top" colspan="6"><hr align="left" width="100%"></td>') == -1:
+    while degree.find('<td valign="top" colspan="6"><hr align="left" width="100%"></td>') == -1:
         # If school degree-type line found (not -1) -> Parse info
-        if sentence.find("<table><tr><td><span class='blue b'>") != -1:
+        if degree.find("<table><tr><td><span class='blue b'>") != -1:
             # Parse to see what degree it is
-            sentence = sentence.split(">")
-            sentence = sentence[4]
+            degree = degree.split(">")[4].split("</span")[0]
 
             # Remove "</span"
-            sentence = sentence.removesuffix("</span")
-            print("**", sentence)
+            print("**", degree)
 
             # Figure out what degree type we just parsed
-            if sentence.find("Baccalaureate") != -1:
+            if degree.find("Baccalaureate") != -1:
                 degreeTypes[0] = "1"
-            elif sentence.find("Master's") != -1:
+            elif degree.find("Master") != -1:  # Avoids Encoding error when "Master" instead of "Master's"
                 degreeTypes[1] = "1"
-            elif sentence.find("Doctor of Nursing Practice") != -1:
+            elif degree.find("Doctor of Nursing Practice") != -1:
                 degreeTypes[2] = "1"
+            elif degree.find("Post-Graduate APRN Certificate") != -1:
+                degreeTypes[3] = "1"
 
         # get new line and start again
-        sentence = file.readline()
+        degree = file.readline()
     return degreeTypes
 
 
 # Opens text file
-with open("rawHTML.txt") as file, open("localDatabase.txt", "w") as dataBase:
+with open("rawHTML.txt", "r") as file, open("localDatabase.txt", "w") as dataBase:
     # Locations where INFO is kept, use SINGLE QUOTES!! (interferes with text)
     textBreak = ['<td valign="top" style="width: 50%;padding-right:15px">']
 
     # Array -> Send to Database. Form: [uni,city,state, 0, 0,0BSN,MSN,DNP]
-    storage = ["uni", "city", "state", "0", "0", "0", "0", "0"]
+    storage = ["uni", "city", "state", "0", "0", "0", "0", "0", "0"]
 
     finishedIterating = False
 
@@ -96,8 +96,12 @@ with open("rawHTML.txt") as file, open("localDatabase.txt", "w") as dataBase:
             storage[0] = line
 
             # Get next 2 lines (CITY, STATE!)
+            # line = nextLine(file)
+            # line = nextLine(file)
             line = nextLine(file)
-            line = nextLine(file)
+            while line.find("href=") == -1:
+                line = nextLine(file)
+            print(line)
             countBR = 1  # Unused VAR, remove.
 
             # Remove unwanted strings (ONLY need 3rd index from line)
@@ -122,19 +126,21 @@ with open("rawHTML.txt") as file, open("localDatabase.txt", "w") as dataBase:
             storage[5] = accreditations[0]
             storage[6] = accreditations[1]
             storage[7] = accreditations[2]
+            storage[8] = accreditations[3]
             print("     Baccalaureate: ", storage[5])
             print("     Master's: ", storage[6])
             print("     Doctor of Nursing Practice: ", storage[7])
+            print("     Post-Graduate APRN Certificate: ", storage[8])
 
             # Writes to local database
             dataBase.write(storage[0]+";"+storage[1]+";"+storage[2]+";")
             dataBase.write(storage[3]+";"+storage[4]+";"+storage[5]+";")
-            dataBase.write(storage[6]+";"+storage[7])
+            dataBase.write(storage[6]+";"+storage[7]+";"+storage[8])
 
             dataBase.write("\n")
 
             # Restore defaults & start again
-            storage = ["uni", "city", "state", "0", "0", "0", "0", "0"]
+            storage = ["uni", "city", "state", "0", "0", "0", "0", "0", "0"]
 
             print("\n")
         else:
