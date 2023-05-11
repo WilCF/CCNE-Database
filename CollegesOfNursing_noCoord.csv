@@ -1,0 +1,922 @@
+University Name,City,State,Bachelors,Masters,DNP,Post-Grad
+Abilene Christian University,Abilene,TX,1,0,1,0
+Adams State University,Alamosa,CO,1,0,0,0
+Adelphi University,Garden City,NY,1,1,1,0
+AdventHealth University,Orlando,FL,1,1,0,0
+Alfred State College SUNY College of Technology,Alfred,NY,1,0,0,0
+Allen College,Waterloo,IA,1,1,1,1
+Alma College,Alma,MI,1,0,0,0
+Alvernia University,Reading,PA,1,1,1,0
+Alverno College,Milwaukee,WI,1,1,1,1
+American College of Education,Indianapolis,IN,1,1,0,0
+American International College,Springfield,MA,1,1,0,0
+American Public University System,Charles Town,WV,1,1,0,0
+American University of Beirut,New York,NY,1,1,0,0
+American University of Health Sciences,Signal Hill,CA,1,1,0,1
+Anderson University - IN,Anderson,IN,1,0,0,0
+Anderson University - SC,Anderson,SC,1,1,1,1
+Angeles College,Los Angeles,CA,1,0,0,0
+Angelo State University,San Angelo,TX,1,1,0,1
+Appalachian State University,Boone,NC,1,1,0,0
+Arizona College of Nursing,Tempe,AZ,1,0,0,0
+Arizona State University,Phoenix,AZ,1,1,1,0
+Ashland University,Mansfield,OH,1,0,1,0
+Aspen University,Phoenix,AZ,1,1,1,0
+Atenas College,Manati,PR,1,0,0,0
+Atlanta VA Health Care System,Decatur,GA,0,0,0,0
+Auburn University,Auburn University,AL,1,1,1,1
+Auburn University at Montgomery,Montgomery,AL,1,1,1,0
+Augsburg University,Minneapolis,MN,1,1,1,0
+Augusta University,Augusta,GA,1,1,1,1
+Augustana University,Sioux Falls,SD,1,0,0,0
+Aultman College of Nursing and Health Sciences,Canton,OH,1,0,0,0
+Aurora University,Aurora,IL,1,0,0,0
+Austin Peay State University,Clarksville,TN,1,1,0,1
+Averett University,Danville,VA,1,1,0,1
+Avila University,Kansas City,MO,1,0,0,0
+Azusa Pacific University,Azusa,CA,1,1,1,1
+Baker College,Owosso,MI,1,1,0,0
+Baker University,Topeka,KS,1,1,0,0
+Baldwin Wallace University,Berea,OH,1,0,0,0
+Ball State University,Muncie,IN,1,1,1,1
+Baptist Health Sciences University,Memphis,TN,1,0,1,0
+Barnes-Jewish College,St. Louis,MO,1,1,1,1
+Barry University,Miami Shores,FL,1,1,1,1
+Barton College,Wilson,NC,1,1,0,0
+Bay Path University,East Longmeadow,MA,1,0,1,0
+Bay State College,Boston,MA,1,0,0,0
+Baylor University,Dallas,TX,1,0,1,0
+Beckfield College,Florence,KY,1,0,0,0
+Belhaven University,Jackson,MS,1,0,0,0
+Bellarmine University,Louisville,KY,1,1,1,1
+Bellevue College,Bellevue,WA,1,0,0,0
+Bellevue University,Bellevue,NE,1,0,0,0
+Bellin College,Green Bay,WI,1,1,0,1
+Belmont University,Nashville,TN,1,1,1,1
+Belmont University,Nashville,TN,0,0,0,0
+Belmont University/Trevecca Nazarene University Consortium,Nashville,TN,1,0,0,0
+Bemidji State University,Bemidji,MN,1,0,0,0
+Benedictine College,Atchison,KS,1,0,0,0
+Benedictine University,Lisle,IL,1,1,0,0
+Berea College,Berea,KY,1,0,0,0
+Berry College,Mount Berry,GA,1,0,0,0
+Bethany Lutheran College,Mankato,MN,1,0,0,0
+Bethel College,North Newton,KS,1,0,0,0
+Bethel University-Minnesota,Saint Paul,MN,1,1,1,0
+Bethel University-Tennessee,McKenzie,TN,1,0,0,0
+Binghamton University,Johnson City,NY,1,1,1,1
+Biola University,La Mirada,CA,1,0,0,0
+Birmingham VA Medical Center,Quincy,IL,1,1,0,0
+Bloomfield College,Bloomfield,NJ,1,0,0,0
+Bloomsburg University of Pennsylvania,Bloomsburg,PA,1,1,1,0
+Bluefield State College,Bluefield,WV,1,0,0,0
+Bluefield University,Bluefield,VA,1,1,0,1
+Bluffton University,Bluffton,OH,1,0,0,0
+Bob Jones University,Greenville,SC,1,0,0,0
+Boise State University,Boise,ID,1,1,1,0
+Boise VA Medical Center,Richmond,VA,1,0,0,0
+Boston College,Chestnut Hill,MA,1,1,1,0
+Bowling Green State University,Bowling Green,OH,1,0,0,0
+Bowling Green State University,Bowling Green,OH,0,0,0,0
+Bradley University,Peoria,IL,1,1,1,1
+Brenau University,Gainesville,GA,1,1,1,1
+Briar Cliff University,Sioux City,IA,1,1,1,1
+Brigham Young University,Provo,UT,1,1,0,0
+Brigham Young University-Idaho,Rexburg,ID,1,0,0,0
+Brookline College,Phoenix,AZ,1,0,0,0
+Broward College,Miramar,FL,1,0,0,0
+Bryant & Stratton College-Online Education,Orchard Park,NY,1,0,0,0
+Bryant & Stratton College-Parma,Parma,OH,1,0,0,0
+Bryant & Stratton College-Wauwatosa,Wauwatosa,WI,1,0,0,0
+Bushnell University,Eugene,OR,1,1,0,0
+Cabarrus College of Health Sciences,Concord,NC,1,1,0,0
+Caldwell University,Caldwell,NJ,1,0,0,0
+California Baptist University,Riverside,CA,1,1,1,1
+California Southern University,Chandler,AZ,1,1,0,0
+"California State University, Bakersfield",Bakersfield,CA,1,1,0,0
+"California State University, Channel Islands",Camarillo,CA,1,1,0,1
+"California State University, Chico",Chico,CA,1,1,0,0
+"California State University, Dominguez Hills",Carson,CA,1,1,0,1
+"California State University, East Bay",Hayward,CA,1,1,0,0
+"California State University, Fresno",Fresno,CA,1,1,1,1
+"California State University, Fullerton",Fullerton,CA,1,1,0,0
+"California State University, Fullerton",Fullerton,CA,0,0,0,0
+"California State University, Long Beach",Long Beach,CA,1,1,0,1
+"California State University, Long Beach",Long Beach,CA,0,0,0,0
+"California State University, Los Angeles",Los Angeles,CA,1,1,0,1
+"California State University, Los Angeles",Los Angeles,CA,0,0,0,0
+"California State University, Monterey Bay",Seaside,CA,1,0,0,0
+"California State University, Northridge",Northridge,CA,1,0,0,0
+"California State University, Sacramento",Sacramento,CA,1,1,0,0
+"California State University, San Bernardino",San Bernardino,CA,1,1,0,0
+"California State University, San Marcos",San Marcos,CA,1,1,0,1
+"California State University, Stanislaus",Turlock,CA,1,1,0,0
+Calvin University,Grand Rapids,MI,1,0,0,0
+Campbell University,Lillington,NC,1,0,0,0
+Capella University,Minneapolis,MN,1,1,1,0
+Capital University,Columbus,OH,1,1,0,0
+Cardinal Stritch University,Milwaukee,WI,1,0,0,0
+Carlow University,Pittsburgh,PA,1,1,1,1
+Carolinas College of Health Sciences,Charlotte,NC,1,0,0,0
+Carroll College-Montana,Helena,MT,1,0,0,0
+Carroll University,Waukesha,WI,1,1,0,0
+Carson-Newman University,Jefferson City,TN,1,1,0,0
+Carthage College,Kenosha,WI,1,0,0,0
+Case Western Reserve University,Cleveland,OH,1,1,1,1
+Castleton University,Castleton,VT,1,0,0,0
+Catawba College,Salisbury,NC,1,0,0,0
+"Catholic University of America, The",Washington,DC,1,1,1,1
+Cedar Crest College,Allentown,PA,0,1,1,0
+Cedarville University,Cedarville,OH,1,1,0,0
+Central Connecticut State University,New Britain,CT,1,1,0,0
+Central Methodist University,Fayette,MO,1,1,0,0
+Central Michigan University,Mount Pleasant,MI,1,0,0,0
+Chamberlain University,Downers Grove,IL,1,1,1,1
+Chaminade University of Honolulu,Honolulu,HI,1,0,0,0
+Charles R. Drew University of Medicine and Science,Los Angeles,CA,1,1,0,1
+Charter Oak State College,New Britain,CT,1,0,0,0
+Chatham University,Pittsburgh,PA,1,1,1,0
+Children's Health,Dallas,TX,0,0,0,0
+Children's Hospital Colorado,Aurora,CO,0,0,0,0
+Children's Hospital of Philadelphia,Philadelphia,PA,0,0,0,0
+"Christ College of Nursing and Health Sciences, The",Cincinnati,OH,1,0,0,0
+Christian Brothers University,Memphis,TN,1,0,0,0
+Cincinnati VA Medical Center,Cincinnati,OH,0,0,0,0
+"Citadel, The",Charleston,SC,1,0,0,0
+Claflin University,Orangeburg,SC,1,0,0,0
+Clarke University,Dubuque,IA,1,0,1,0
+Clayton State University,Morrow,GA,1,1,0,0
+Clement J. Zablocki VA Medical Center,Milwaukee,WI,0,0,0,0
+Clemson University,Clemson,SC,1,1,1,0
+Cleveland State University,Cleveland,OH,1,1,1,0
+CNI College,Santa Ana,CA,1,0,0,0
+Coe College,Cedar Rapids,IA,1,0,0,0
+Colby-Sawyer College,New London,NH,1,1,0,0
+Colegio Universitario de San Juan,San Juan,PR,1,0,0,0
+College of Mount Saint Vincent,Bronx,NY,1,1,0,1
+"College of New Jersey, The",Ewing,NJ,1,1,0,1
+College of Saint Benedict,St. Joseph,MN,0,0,0,0
+College of Saint Benedict/Saint John's University,St. Joseph,MN,1,0,0,0
+"College of St. Scholastica, The",Duluth,MN,1,0,1,1
+College of the Ozarks,Point Lookout,MO,1,0,0,0
+Colorado Christian University,Lakewood,CO,1,1,1,0
+Colorado Mesa University,Grand Junction,CO,1,1,1,0
+Colorado Technical University,Colorado Springs,CO,1,1,1,1
+Columbia Basin College,Pasco,WA,1,0,0,0
+"Columbia College, Missouri",Columbia,MO,1,0,0,0
+Columbia College-SC,Columbia,SC,1,0,0,0
+Columbia University,New York,NY,0,1,1,1
+Columbus State University,Columbus,GA,1,1,0,0
+Columbus State University,Columbus,GA,0,0,0,0
+Concordia College-Moorhead,Moorhead,MN,1,0,0,0
+Concordia University Irvine,Irvine,CA,1,0,0,0
+Concordia University Saint Paul,Saint Paul,MN,1,0,0,0
+Concordia University Texas,Austin,TX,1,0,0,0
+Concordia University Wisconsin,Mequon,WI,1,1,1,1
+Cone Health,Greensboro,NC,0,0,0,0
+Cook Children's Medical Center,Fort Worth,TX,0,0,0,0
+Coppin State University,Baltimore,MD,1,1,1,1
+Corewell Health East,Southfield,MI,0,0,0,0
+Cox College,Springfield,MO,1,1,0,1
+Creighton University,Omaha,NE,1,1,1,1
+Crown College,St. Bonifacius,MN,1,0,0,0
+Cumberland University,Lebanon,TN,1,1,0,0
+CUNY School of Professional Studies,New York,NY,1,1,0,0
+Curry College,Milton,MA,1,1,0,0
+Dakota Wesleyan University,Mitchell,SD,1,0,0,0
+Davenport University,Grand Rapids,MI,1,1,0,1
+Defiance College,Defiance,OH,1,0,0,0
+Delta State University,Cleveland,MS,1,1,1,1
+Denver College of Nursing,Denver,CO,1,1,0,0
+DePaul University,Chicago,IL,1,1,1,0
+DeSales University,Center Valley,PA,1,1,1,1
+Dominican University New York,Orangeburg,NY,1,1,1,0
+Dominican University of California,San Rafael,CA,1,0,0,0
+"Dominican University, Illinois",River Forest,IL,1,0,0,0
+Dordt University,Sioux Center,IA,1,0,0,0
+Drexel University,Philadelphia,PA,1,1,1,1
+Duke University,Durham,NC,1,1,1,0
+Duquesne University,Pittsburgh,PA,1,1,1,1
+D'Youville University,Buffalo,NY,1,1,1,1
+Eagle Gate College,Murray,UT,1,1,0,0
+East Carolina University,Greenville,NC,1,1,1,1
+East Tennessee State University,Johnson City,TN,1,1,1,1
+East Tennessee State University and Tennessee Technological University Joint DNP Program,Johnson City,TN,0,0,1,0
+East Texas Baptist University,Marshall,TX,1,0,0,0
+Eastern Florida State College,Melbourne,FL,1,0,0,0
+Eastern Illinois University,Charleston,IL,1,0,0,0
+Eastern Kentucky University,Richmond,KY,1,1,1,1
+Eastern Mennonite University,Harrisonburg,VA,1,1,1,0
+Eastern Michigan University,Ypsilanti,MI,1,1,1,1
+Eastern University,St. Davids,PA,1,1,0,0
+ECPI University-Orlando,Lake Mary,FL,1,0,0,0
+ECPI University-Virginia,Virginia Beach,VA,1,1,0,0
+Edgewood College,Madison,WI,1,1,1,0
+Elizabethtown College,Elizabethtown,PA,1,0,0,0
+Elmhurst University,Elmhurst,IL,1,1,0,0
+Elms College,Chicopee,MA,1,1,1,1
+Emmanuel College,Boston,MA,1,1,0,0
+Emory & Henry College,Emory,VA,1,0,0,0
+Emory Healthcare,Atlanta,GA,0,0,0,0
+Emory University,Atlanta,GA,1,1,1,1
+Endicott College,Beverly,MA,1,0,0,0
+Fairfield University,Fairfield,CT,1,1,1,0
+Fairleigh Dickinson University,Teaneck,NJ,1,1,1,1
+Fairmont State University,Fairmont,WV,1,0,0,0
+Farmingdale State College,Farmingdale,NY,1,0,0,0
+Fayetteville State University,Fayetteville,NC,1,1,0,0
+Felician University,Lodi,NJ,1,1,1,1
+Ferris State University,Big Rapids,MI,1,1,1,0
+Finlandia University,Hancock,MI,1,0,0,0
+Fisher College,Boston,MA,1,0,0,0
+Fitchburg State University,Fitchburg,MA,1,1,0,0
+Florida Atlantic University,Boca Raton,FL,1,1,1,0
+Florida Gateway College,Lake City,FL,1,0,0,0
+Florida Gulf Coast University,Fort Myers,FL,1,1,1,0
+Florida International University,Miami,FL,1,1,1,0
+Florida National University,Hialeah,FL,1,1,0,0
+Florida Southern College,Lakeland,FL,1,1,1,1
+Florida State University,Tallahassee,FL,1,0,1,1
+Fort Hays State University,Hays,KS,1,1,1,0
+Framingham State University,Framingham,MA,1,1,0,0
+Francis Marion University,Florence,SC,1,1,1,0
+Franciscan University of Steubenville,Steubenville,OH,1,1,0,1
+Franklin University,Columbus,OH,1,1,0,0
+Freed-Hardeman University,Henderson,TN,1,0,0,0
+Fresno Pacific University,Fresno,CA,1,1,0,0
+Front Range Community College,Westminster,CO,1,0,0,0
+Frostburg State University,Frostburg,MD,1,1,0,0
+Galen College of Nursing,Louisville,KY,1,0,0,0
+Gannon University,Erie,PA,1,1,1,1
+George Fox University,Newberg,OR,1,0,0,0
+George Mason University,Fairfax,VA,1,1,1,0
+George Washington University,Washington,DC,1,1,1,1
+Georgetown University,Washington,DC,1,1,1,1
+Georgia College & State University,Milledgeville,GA,1,1,1,1
+Georgia Gwinnett College,Lawrenceville,GA,1,0,0,0
+Georgia Intercollegiate Consortium for Graduate Nursing Education,Statesboro,GA,1,1,1,1
+Georgia Southwestern State University,Americus,GA,1,1,0,0
+Georgia Southwestern State University,Americus,GA,0,0,0,0
+Georgia State University,Atlanta,GA,1,1,1,1
+Georgian Court University,Lakewood,NJ,1,0,0,0
+Glendale Career College,Glendale,CA,1,0,0,0
+Gonzaga University,Spokane,WA,1,1,1,0
+Goodwin University,East Hartford,CT,1,1,0,0
+Goshen College,Goshen,IN,1,1,1,0
+Goshen College-Eastern Mennonite University DNP Consortium,Goshen,IN,0,0,1,0
+Graceland University,Independence,MO,1,1,1,1
+Grambling State University,Grambling,LA,1,0,0,0
+Grand Canyon University,Phoenix,AZ,1,1,1,1
+Grand Valley State University,Grand Rapids,MI,1,1,1,0
+Grand View University,Des Moines,IA,1,0,0,0
+Granite State College,Concord,NH,1,1,0,0
+Grantham University,Lenexa,KS,1,1,0,0
+Gulf Coast State College,Panama City,FL,1,0,0,0
+Gustavus Adolphus College,Saint Peter,MN,1,0,0,0
+Gwynedd Mercy University,Gwynedd Valley,PA,1,1,1,1
+Hampton University,Hampton,VA,1,0,0,0
+Hannibal-LaGrange University,Hannibal,MO,1,0,0,0
+Harding University,Searcy,AR,1,1,0,1
+Hardin-Simmons University,Abilene,TX,0,0,0,0
+Harrisburg University of Science and Technology,Harrisburg,PA,1,1,0,0
+Hartwick College,Oneonta,NY,1,0,0,0
+Hawaii Pacific University,Honolulu,HI,1,1,1,1
+Heidelberg University,Tiffin,OH,1,0,0,0
+Helene Fuld College of Nursing,New York,NY,1,0,0,0
+Henderson State University,Arkadelphia,AR,1,1,0,0
+Heritage University,Toppenish,WA,1,0,0,0
+"Herzing University, Atlanta",Atlanta,GA,1,0,0,0
+"Herzing University, Brookfield",Brookfield,WI,1,0,0,0
+"Herzing University, Kenosha",Kenosha,WI,1,0,0,0
+"Herzing University, Madison",Madison,WI,1,1,0,1
+"Herzing University, Minneapolis",St. Louis Park,MN,1,0,0,0
+"Herzing University, New Orleans",Metairie,LA,1,0,0,0
+"Herzing University, Orlando",Winter Park,FL,1,0,0,0
+Hesston College,Hesston,KS,1,0,0,0
+Hiram College,Hiram,OH,1,0,0,0
+Hofstra University,Hempstead,NY,0,1,0,0
+Holy Family University,Philadelphia,PA,1,1,1,0
+Holy Names University,Oakland,CA,1,1,0,1
+"Homestead Schools, Inc.",Torrance,CA,1,0,0,0
+Hood College,Frederick,MD,1,0,0,0
+Hope College,Holland,MI,1,0,0,0
+Houston Christian University,Houston,TX,0,1,0,0
+Houston Methodist,Houston,TX,0,0,0,0
+Howard Payne University,Brownwood,TX,1,0,0,0
+Howard University,Washington,DC,1,1,0,1
+Humboldt State University,Arcata,CA,1,0,0,0
+Hunter College of the City University of New York,New York,NY,1,1,1,1
+Huntington University,Huntington,IN,1,0,0,0
+Husson University,Bangor,ME,1,1,0,1
+Idaho State University,Pocatello,ID,1,1,1,0
+Illinois College,Jacksonville,IL,1,0,0,0
+Illinois State University,Normal,IL,1,1,1,1
+Illinois Wesleyan University,Bloomington,IL,1,0,0,0
+Immaculata University,Immaculata,PA,1,1,0,0
+Indiana University Kokomo,Kokomo,IN,1,0,0,0
+Indiana University of Pennsylvania,Indiana,PA,1,1,0,0
+Indiana University South Bend,South Bend,IN,1,1,0,0
+Indiana University Southeast,New Albany,IN,1,1,0,0
+Indiana University-Purdue University Columbus,Columbus,IN,1,1,0,0
+Indiana University-Purdue University Indianapolis,Indianapolis,IN,1,1,1,1
+Indiana Wesleyan University,Marion,IN,1,1,1,1
+Intercollegiate Consortium for a Master of Science in Nursing,Hammand,LA,0,1,0,0
+Iona University,New Rochelle,NY,1,0,0,0
+Jacksonville State University,Jacksonville,AL,1,1,1,0
+Jacksonville University,Jacksonville,FL,1,1,1,1
+James H. Quillen VA Medical Center,Mountain Home,TN,0,0,0,0
+James Madison University,Harrisonburg,VA,1,1,1,0
+John Brown University,Siloam Springs,AR,1,0,0,0
+Johns Hopkins University,Baltimore,MD,0,1,1,1
+Joyce University of Nursing and Health Sciences,Draper,UT,1,1,0,0
+Kansas Wesleyan University,Salina,KS,1,0,0,0
+Keene State College,Keene,NH,1,0,0,0
+Keiser University,Ft. Lauderdale,FL,1,1,1,0
+Kennesaw State University,Kennesaw,GA,1,1,0,0
+Kent State University,Kent,OH,1,1,1,1
+Kentucky Christian University,Grayson,KY,1,1,0,0
+Keuka College,Keuka Park,NY,1,1,0,0
+King University,Bristol,TN,1,1,1,1
+King's College,Wilkes-Barre,PA,1,0,0,0
+La Salle University,Philadelphia,PA,1,1,1,1
+"Laboure College of Healthcare, Inc.",Milton,MA,1,0,0,0
+Lake Superior State University,Sault Sainte Marie,MI,1,0,0,0
+Lakeland University,Plymouth,WI,1,0,0,0
+Lakeview College of Nursing,Danville,IL,1,0,0,0
+Lander University,Greenwood,SC,1,1,0,0
+Lawrence Technological University,Southfield,MI,1,0,0,0
+LCMC Health,New Orleans,LA,0,0,0,0
+Le Moyne College,Syracuse,NY,1,1,0,1
+Lebanese American University,New York,NY,1,0,0,0
+Lee University,Cleveland,TN,1,0,1,0
+Lees-McRae College,Banner Elk,NC,1,0,0,0
+Lehman College-The City University of New York,Bronx,NY,1,1,1,1
+Lenoir-Rhyne University,Hickory,NC,1,1,1,0
+LeTourneau University,Longview,TX,1,0,0,0
+Lewis University,Romeoville,IL,1,1,1,1
+Lewis-Clark State College,Lewiston,ID,1,0,0,0
+Liberty University,Lynchburg,VA,1,1,1,1
+Limestone University,Gaffney,SC,1,0,0,0
+"Lincoln University, Pennsylvania",Lincoln University,PA,1,0,0,0
+Lindsey Wilson College,Columbia,KY,1,0,0,0
+Linfield University,Portland,OR,1,1,0,0
+Loma Linda University,Loma Linda,CA,1,1,1,0
+"Long Island University, Brooklyn Campus",Brooklyn,NY,1,1,0,1
+"Long Island University, C. W. Post Campus",Brookville,NY,1,1,0,0
+Longwood University,Farmville,VA,1,0,0,0
+Louisiana Christian University,Pineville,LA,1,0,0,0
+Louisiana State University Health Sciences Center,New Orleans,LA,1,1,1,0
+Lourdes University,Sylvania,OH,1,1,0,0
+Loyola University Chicago,Maywood,IL,1,1,1,1
+Loyola University New Orleans,New Orleans,LA,1,1,1,0
+Luther College,Decorah,IA,1,0,0,0
+Madonna University,Livonia,MI,1,1,1,1
+Maine College of Health Professions,Lewiston,ME,1,0,0,0
+Malcom Randall Veterans Administration Medical Center,Gainesville,FL,0,0,0,0
+Malone University,Canton,OH,1,1,0,0
+Manhattanville College,Purchase,NY,1,0,0,0
+Maranatha Baptist University,Watertown,WI,1,0,0,0
+Marian University,Indianapolis,IN,1,0,1,0
+Marian University of Fond du Lac,Fond du Lac,WI,1,1,0,0
+Marquette University,Milwaukee,WI,1,1,1,1
+Mars Hill University,Mars Hill,NC,1,0,0,0
+Mary Baldwin University,Fishersville,VA,1,1,0,0
+Marymount University,Arlington,VA,1,1,1,0
+Maryville University of St. Louis,St. Louis,MO,1,1,1,1
+Marywood University,Scranton,PA,1,0,0,0
+Mayville State University,Mayville,ND,1,1,0,0
+McKendree University,Lebanon,IL,1,1,1,0
+McMurry University,Abilene,TX,0,0,0,0
+McNeese State University,Lake Charles,LA,1,0,0,0
+McNeese State University,Lake Charles,LA,0,0,0,0
+MCPHS University,Boston,MA,1,1,0,1
+Medical University of South Carolina,Charleston,SC,1,1,1,0
+MedStar Franklin Square Medical Center,Washington,DC,0,0,0,0
+Mercer University,Atlanta,GA,1,1,1,0
+Mercy College,Dobbs Ferry,NY,1,1,0,0
+Mercy College of Health Sciences,Des Moines,IA,1,0,0,0
+Mercy College of Ohio,Toledo,OH,1,1,0,0
+Messiah University,Mechanicsburg,PA,1,1,1,0
+Methodist College,Peoria,IL,1,1,0,0
+Methodist University,Fayetteville,NC,1,0,0,0
+Metropolitan State University,Saint Paul,MN,1,1,1,0
+Metropolitan State University of Denver,Denver,CO,1,0,0,0
+MGH Institute of Health Professions,Boston,MA,1,1,1,0
+Miami Dade College,Miami,FL,1,0,0,0
+Miami University,Hamilton,OH,1,0,0,0
+Miami VA Healthcare System,Miami,FL,0,0,0,0
+Michigan State University,East Lansing,MI,1,1,1,1
+MidAmerica Nazarene University,Olathe,KS,1,1,0,1
+Middle Tennessee State University,Murfreesboro,TN,1,1,0,1
+Midwestern State University,Wichita Falls,TX,1,1,0,1
+Millersville University,Millersville,PA,1,1,1,1
+Milligan University,Milligan College,TN,1,0,0,0
+Millikin University,Decatur,IL,1,1,1,0
+Milwaukee School of Engineering,Milwaukee,WI,1,1,0,1
+Minnesota State University Mankato,Mankato,MN,1,0,1,0
+Minnesota State University Moorhead,Moorhead,MN,1,1,0,0
+Minot State University,Minot,ND,1,0,0,0
+Misericordia University,Dallas,PA,1,1,1,1
+Mississippi College,Clinton,MS,1,1,0,0
+Mississippi University for Women,Columbus,MS,1,1,1,1
+Missouri Baptist University,St. Louis,MO,1,0,0,0
+Missouri State University,Springfield,MO,1,1,1,0
+Missouri Valley College,Marshall,MO,1,1,0,0
+Missouri Western State University,Saint Joseph,MO,1,1,0,0
+Molloy University,Rockville Centre,NY,1,1,1,1
+Monmouth University,West Long Branch,NJ,1,1,1,1
+Montana State University,Bozeman,MT,1,1,1,0
+Montana State University Billings,Billings,MT,1,0,0,0
+Montana Technological University,Butte,MT,1,0,0,0
+Montclair State University,Montclair,NJ,1,1,0,0
+Moravian University,Bethlehem,PA,1,1,0,0
+Morehead State University,Morehead,KY,1,1,0,0
+Morgan Community College,Fort Morgan,CO,1,0,0,0
+Morgan State University,Baltimore,MD,1,1,0,0
+Morningside University,Sioux City,IA,1,1,1,1
+Mount Carmel College of Nursing,Columbus,OH,1,1,1,1
+Mount Marty University,Yankton,SD,1,1,0,1
+Mount Mary University,Milwaukee,WI,1,0,0,0
+Mount Mercy University,Cedar Rapids,IA,1,1,1,0
+Mount Saint Mary College,Newburgh,NY,1,1,0,1
+"Mount Saint Mary's University, Los Angeles",Los Angeles,CA,1,1,0,1
+Mount Sinai Phillips School of Nursing,New York,NY,1,0,0,0
+Mount St. Joseph University,Cincinnati,OH,1,1,1,0
+Mount Vernon Nazarene University,Mount Vernon,OH,1,1,0,0
+Murray State University,Murray,KY,1,0,1,0
+Muskingum University,New Concord,OH,1,0,0,0
+National University,San Diego,CA,1,1,0,1
+Nazareth College,Rochester,NY,1,0,0,0
+Nebraska Methodist College,Omaha,NE,1,1,1,0
+Nebraska Methodist Hospital,Omaha,NE,0,0,0,0
+Nebraska Wesleyan University,Lincoln,NE,1,1,0,0
+Nevada State College,Henderson,NV,1,0,0,0
+New Jersey City University,Jersey City,NJ,1,1,0,0
+New Mexico Highlands University,Las Vegas,NM,1,0,0,0
+New Mexico State University,Las Cruces,NM,1,1,1,1
+New York Institute of Technology,Old Westbury,NY,1,0,0,0
+New York University,New York,NY,1,1,1,1
+New York University Langone Medical Center,New York,NY,0,0,0,0
+Newberry College,Newberry,SC,1,0,0,0
+Newman University,Wichita,KS,1,0,0,0
+Niagara University,Lewiston,NY,1,0,0,0
+Nicholls State University,Thibodaux,LA,1,0,0,0
+Nicholls State University,Thibodaux,LA,0,0,0,0
+Nightingale College,Salt Lake City,UT,1,1,0,0
+North Carolina Wesleyan University,Rocky Mount,NC,1,0,0,0
+North Dakota State University,Fargo,ND,1,0,1,0
+North Park University,Chicago,IL,1,1,1,1
+Northcentral University,San Diego,CA,0,1,1,0
+Northeastern University,Boston,MA,1,1,1,1
+Northern Arizona University,Flagstaff,AZ,1,1,1,1
+Northern Illinois University,DeKalb,IL,1,1,1,0
+Northern Kentucky University,Highland Heights,KY,1,1,1,1
+Northern Michigan University,Marquette,MI,1,0,1,0
+Northern New Mexico College,Espanola,NM,1,0,0,0
+Northwest Florida State College,Niceville,FL,1,0,0,0
+Northwest Nazarene University,Nampa,ID,1,1,0,0
+Northwest University,Kirkland,WA,1,1,0,0
+Northwestern College,Orange City,IA,1,0,0,0
+Northwestern Oklahoma State University,Alva,OK,0,0,1,0
+Northwestern State University of Louisiana,Shreveport,LA,1,1,1,1
+Norwich University,Northfield,VT,1,1,0,1
+Notre Dame College,South Euclid,OH,1,1,0,0
+Notre Dame of Maryland University,Baltimore,MD,1,1,0,0
+Nova Southeastern University,Fort Lauderdale,FL,1,1,1,1
+Nyack College,Nyack,NY,1,0,0,0
+NYU Langone Orthopedic Hospital,New York,NY,0,0,0,0
+Oak Point University,Chicago,IL,1,1,1,0
+Oakland University,Rochester,MI,1,1,1,1
+Ohio Northern University,Ada,OH,1,0,0,0
+"Ohio State University, The",Columbus,OH,1,1,1,1
+Ohio University,Athens,OH,1,1,1,1
+Oklahoma Baptist University,Shawnee,OK,1,0,0,0
+Oklahoma Christian University,Edmond,OK,1,0,0,0
+Oklahoma City VA Health Care System,Oklahoma City,OK,0,0,0,0
+Oklahoma State University,Stillwater,OK,1,0,0,0
+Oklahoma Wesleyan University,Bartlesville,OK,1,1,0,0
+Old Dominion University,Virginia Beach,VA,1,1,1,0
+Olivet College,Olivet,MI,1,0,0,0
+Olivet Nazarene University,Bourbonnais,IL,1,1,0,1
+Olympic College,Bremerton,WA,1,0,0,0
+Oral Roberts University,Tulsa,OK,1,1,1,0
+Oregon Health & Science University,Portland,OR,1,1,1,0
+Ottawa University,Overland Park,KS,1,1,0,0
+Otterbein University,Westerville,OH,1,1,1,1
+Pace University,Pleasantville,NY,1,1,1,1
+Pacific College,Costa Mesa,CA,1,1,0,1
+Pacific Lutheran University,Tacoma,WA,1,1,1,1
+Palm Beach Atlantic University,West Palm Beach,FL,1,1,1,0
+Park University,Parkville,MO,1,0,0,0
+Pasco-Hernando State College,New Port Richey,FL,1,0,0,0
+Patty Hanks Shelton School of Nursing,Abilene,TX,1,1,0,0
+Penn Medicine,Philadelphia,PA,0,0,0,0
+Penn State Health Milton S. Hershey Medical Center,Lancaster,PA,1,1,0,1
+"Pennsylvania State University, The",University Park,PA,1,1,1,1
+Pennsylvania Western University,California,PA,1,1,1,0
+Pensacola Christian College,Pensacola,FL,1,1,0,0
+Pensacola State College,Pensacola,FL,1,0,0,0
+Pfeiffer University,Misenheimer,NC,1,0,0,0
+Pikes Peak State College,Colorado Springs,CO,1,0,0,0
+Pima Medical Institute,Tucson,AZ,1,0,0,0
+Pittsburg State University,Pittsburg,KS,1,1,1,0
+Plattsburgh State University of New York,Plattsburgh,NY,1,0,0,0
+Plymouth State University,Plymouth,NH,1,0,0,0
+Point Loma Nazarene University,San Diego,CA,1,1,1,1
+Ponce Health Sciences University,Ponce,PR,1,0,0,0
+Post University,Waterbury,CT,1,1,0,0
+Prairie View A&M University,Houston,TX,1,1,1,1
+Presentation College,Aberdeen,SD,1,1,0,0
+Providence Veterans Affairs Medical Center,Providence,RI,0,0,0,0
+Provo College,Provo,UT,1,0,0,0
+Purdue University,West Lafayette,IN,1,1,1,1
+Purdue University Global,West Lafayette,IN,1,1,1,1
+Queens University of Charlotte,Charlotte,NC,1,1,0,0
+Quinnipiac University,Hamden,CT,1,1,1,0
+Radford University,Radford,VA,1,1,1,1
+Ralph H. Johnson Veterans Administration Medical Center,Charleston,SC,0,0,0,0
+Randolph-Macon College,Ashland,VA,1,0,0,0
+Rasmussen University,Bloomington,MN,1,1,0,0
+Regent University,Virginia Beach,VA,1,1,0,0
+Regis University,Denver,CO,1,1,1,1
+Reinhardt University,Waleska,GA,1,0,0,0
+Research College of Nursing,Kansas City,MO,1,1,0,0
+Rhode Island College,Providence,RI,1,1,1,0
+Rider University,Lawrenceville,NJ,1,1,0,1
+Riley Hospital for Children at Indiana University Health,Indianapolis,IN,0,0,0,0
+Robert Morris University,Moon Township,PA,1,1,1,1
+Roberts Wesleyan University,Rochester,NY,1,1,0,0
+Rochester University,Rochester Hills,MI,1,0,0,0
+Rockhurst University,Kansas City,MO,1,1,0,1
+Rocky Mountain University of Health Professions,Provo,UT,0,0,1,1
+Roosevelt University,Chicago,IL,1,0,0,0
+Roseman University of Health Sciences,Henderson,NV,1,1,0,0
+Rowan University,Sewell,NJ,1,1,0,0
+Rush University,Chicago,IL,0,1,1,1
+Russell Sage College,Troy,NY,1,1,0,1
+"Rutgers, The State University of New Jersey-Camden",Camden,NJ,1,1,1,0
+"Rutgers, The State University of New Jersey-Newark",Newark,NJ,1,1,1,1
+Sacred Heart University,Fairfield,CT,1,1,1,0
+Saginaw Valley State University,University Center,MI,1,1,1,1
+Saint Anselm College,Manchester,NH,1,0,0,0
+Saint Anthony College of Nursing,Rockford,IL,1,1,1,1
+Saint Francis Medical Center College of Nursing,Peoria,IL,1,1,1,1
+Saint Francis University,Loretto,PA,1,1,0,0
+Saint Joseph's College of Maine,Standish,ME,1,1,0,1
+Saint Louis University,Saint Louis,MO,1,1,1,1
+Saint Martin's University,Lacey,WA,1,0,0,0
+Saint Mary-of-the-Woods College,Saint Mary of the Woods,IN,1,1,0,1
+Saint Mary's College-Indiana,Notre Dame,IN,1,0,1,0
+Saint Mary's University of Minnesota,Minneapolis,MN,1,0,0,0
+Saint Peter's University,Jersey City,NJ,1,1,1,1
+Saint Xavier University,Chicago,IL,1,1,0,0
+Salem State University,Salem,MA,1,1,0,0
+Salisbury University,Salisbury,MD,1,1,1,1
+Salve Regina University,Newport,RI,1,1,1,0
+Sam Houston State University,The Woodlands,TX,1,0,0,0
+Samford University,Birmingham,AL,1,1,1,1
+Samuel Merritt University,Oakland,CA,1,1,1,1
+San Diego State University,San Diego,CA,1,1,0,0
+San Francisco State University,San Francisco,CA,1,1,0,0
+San Jose State University,San Jose,CA,1,1,1,0
+San Juan Bautista School of Medicine,Caguas,PR,1,0,0,0
+Santa Fe College,Gainesville,FL,1,0,0,0
+Schreiner University,Kerrville,TX,1,0,0,0
+Seattle Pacific University,Seattle,WA,1,0,1,0
+Seattle University,Seattle,WA,1,0,1,1
+Sentara College of Health Sciences,Chesapeake,VA,1,1,0,0
+Seton Hall University,Nutley,NJ,1,1,1,1
+Seton Hill University,Greensburg,PA,1,0,0,0
+Shenandoah University,Winchester,VA,1,1,1,1
+Shepherd University,Shepherdstown,WV,1,0,1,1
+Shorter University,Rome,GA,1,0,0,0
+Siena College,Loudonville,NY,1,0,0,0
+Siena Heights University,Adrian,MI,1,1,0,0
+Simmons University,Boston,MA,1,1,1,0
+Simpson University,Redding,CA,1,0,0,0
+Slippery Rock University,Slippery Rock,PA,1,0,0,0
+Sonoma State University,Rohnert Park,CA,1,1,0,1
+South College,Knoxville,TN,1,1,1,1
+South Dakota State University,Brookings,SD,1,1,1,1
+South University,Savannah,GA,1,1,1,0
+Southeast Missouri Hospital College of Nursing and Health Sciences,Cape Girardeau,MO,1,0,0,0
+Southeast Missouri State University,Cape Girardeau,MO,1,1,0,0
+Southeastern Louisiana University,Hammond,LA,1,0,1,0
+Southeastern Louisiana University,Hammond,LA,0,0,0,0
+Southeastern University,Lakeland,FL,1,0,0,0
+Southern California CSU DNP Consortium,Fullerton,CA,0,0,1,0
+Southern Connecticut State University,New Haven,CT,1,1,0,1
+Southern Illinois University Carbondale,Carbondale,IL,1,0,0,0
+Southern Illinois University Edwardsville,Edwardsville,IL,1,1,1,0
+Southern Nazarene University,Bethany,OK,1,0,0,0
+Southern New Hampshire University,Manchester,NH,1,1,0,0
+Southern University and A&M College,Baton Rouge,LA,1,1,1,0
+Southern Utah University,Cedar City,UT,1,0,0,0
+Southwest Minnesota State University,Marshall,MN,1,0,0,0
+Southwest University at El Paso,El Paso,TX,1,0,0,0
+Southwestern Adventist University,Keene,TX,1,0,0,0
+Spalding University,Louisville,KY,1,1,0,0
+Spring Arbor University,Spring Arbor,MI,1,1,1,1
+Spring Hill College,Mobile,AL,1,0,0,0
+St. Ambrose University,Davenport,IA,1,0,0,0
+St. Bonaventure University,St. Bonaventure,NY,1,0,0,0
+St. Cloud State University,St. Cloud,MN,1,0,0,0
+St. Francis College,Brooklyn Heights,NY,1,0,0,0
+St. John Fisher College,Rochester,NY,1,1,1,1
+St. John's University,Collegeville,MN,0,0,0,0
+St. Luke's College-UnityPoint Health,Sioux City,IA,1,0,0,0
+St. Olaf College,Northfield,MN,1,0,0,0
+St. Petersburg College,Pinellas Park,FL,1,0,0,0
+St. Thomas University,Miami Gardens,FL,1,1,0,0
+Stanbridge University,Irvine,CA,1,0,0,0
+State University of New York at Delhi,Delhi,NY,0,1,0,0
+State University of New York Brockport,Brockport,NY,1,1,0,1
+State University of New York Downstate Health Sciences University,Brooklyn,NY,1,1,1,1
+State University of New York Empire State College,Saratoga Springs,NY,1,1,0,0
+State University of New York Polytechnic Institute,Utica,NY,1,1,0,0
+State University of New York Upstate Medical University,Syracuse,NY,1,1,1,1
+Stevenson University,Owings Mills,MD,1,1,0,0
+Stockton University,Galloway,NJ,1,1,1,1
+Stony Brook University,Stony Brook,NY,1,1,1,1
+Stony Brook University Medical Center,Stony Brook,NY,0,0,0,0
+Sul Ross State University Rio Grande College,Alpine,TX,1,0,0,0
+Sumner College,Portland,OR,1,0,0,0
+Tarleton State University,Stephenville,TX,1,1,0,0
+Temple University,Philadelphia,PA,1,0,1,0
+Tennessee Technological University,Cookeville,TN,1,1,1,0
+Tennessee Wesleyan University,Knoxville,TN,1,0,0,0
+Texas A&M University Health Science Center,Bryan,TX,1,1,0,0
+Texas A&M University-Central Texas,Killeen,TX,1,0,0,0
+Texas A&M University-Commerce,Commerce,TX,1,1,0,0
+Texas A&M University-Corpus Christi,Corpus Christi,TX,1,1,1,1
+Texas A&M University-Texarkana,Texarkana,TX,1,1,0,0
+Texas Christian University,Fort Worth,TX,1,1,1,1
+Texas Lutheran University,Seguin,TX,1,0,0,0
+Texas State University,Round Rock,TX,1,1,0,0
+Texas Tech University Health Sciences Center,Lubbock,TX,1,1,1,1
+Texas Tech University Health Sciences Center-El Paso,El Paso,TX,1,1,0,0
+Texas Wesleyan University,Fort Worth,TX,0,1,1,1
+Texas Woman's University,Denton,TX,1,1,1,0
+Thomas Edison State University,Trenton,NJ,1,1,1,0
+Thomas Jefferson University,Philadelphia,PA,1,1,1,1
+Thomas Jefferson University Hospitals,Philadelphia,PA,0,0,0,0
+Toccoa Falls College,Toccoa Falls,GA,1,0,0,0
+Touro College,Brooklyn,NY,1,0,0,0
+Touro University California,Vallejo,CA,0,1,1,1
+Touro University Nevada,Henderson,NV,1,1,1,1
+Towson University,Towson,MD,1,1,0,0
+Trevecca Nazarene University,Nashville,TN,0,0,0,0
+Trine University,Angola,IN,1,0,0,0
+Trinidad State College,Trinidad,CO,1,0,0,0
+Trinity Christian College,Palos Heights,IL,1,0,0,0
+Trinity College of Nursing and Health Sciences,Rock Island,IL,1,1,0,0
+Trinity Washington University,Washington,DC,1,0,0,0
+Truett McConnell University,Cleveland,GA,1,0,0,0
+Truman State University,Kirksville,MO,1,0,0,0
+Tusculum University,Greeneville,TN,1,0,0,0
+UCHealth,Aurora,CO,0,0,0,0
+UK HealthCare,Lexington,KY,0,0,0,0
+UNC Charlotte/WCU Dual DNP Program,Charlotte,NC,0,0,1,0
+Uniformed Services University of the Health Sciences,Bethesda,MD,0,1,1,0
+Union College-Kentucky,Barbourville,KY,1,0,0,0
+Union College-Nebraska,Lincoln,NE,1,0,0,0
+Union University,Jackson,TN,1,1,1,1
+United States University,San Diego,CA,1,1,0,0
+Unitek College,Fremont,CA,1,0,0,0
+Universidad Adventista de las Antillas,Mayaguez,PR,1,1,0,0
+Universidad Ana G. Mendez,Gurabo,PR,1,1,0,0
+Universidad Central de Bayamon,Bayamon,PR,1,0,0,0
+Universidad del Sagrado Corazon,San Juan,PR,1,0,0,0
+Universidad Interamericana de Puerto Rico-Barranquitas,Barranquitas,PR,1,0,0,0
+Universidad Interamericana de Puerto Rico-Bayamon,Bayamon,PR,1,0,0,0
+Universidad Interamericana de Puerto Rico-Guayama,Guayama,PR,1,0,0,0
+Universidad Interamericana de Puerto Rico-Ponce,Mercedita,PR,1,0,0,0
+Universidad Interamericana de Puerto Rico-San German,San German,PR,1,0,0,0
+"University at Buffalo, State University of New York",Buffalo,NY,1,0,1,1
+"University of Akron, The",Akron,OH,1,1,1,1
+University of Alabama at Birmingham,Birmingham,AL,1,1,1,1
+"University of Alabama in Huntsville, The",Huntsville,AL,1,1,1,1
+"University of Alabama, The",Tuscaloosa,AL,1,1,1,1
+University of Alaska Anchorage,Anchorage,AK,0,0,1,0
+University of Arizona Global Campus,Chandler,AZ,1,0,0,0
+"University of Arizona, The",Tucson,AZ,1,1,1,1
+University of Arkansas,Fayetteville,AR,1,1,1,0
+University of Arkansas at Pine Bluff,Pine Bluff,AR,1,0,0,0
+University of Arkansas for Medical Sciences,Little Rock,AR,1,1,1,1
+University of Arkansas-Fort Smith,Fort Smith,AR,1,0,0,0
+University of Bridgeport,Bridgeport,CT,1,1,0,0
+"University of California, Davis",Sacramento,CA,0,1,0,0
+"University of California, Irvine",Irvine,CA,1,1,1,0
+"University of California, Los Angeles",Los Angeles,CA,1,1,1,0
+"University of California, San Francisco",San Francisco,CA,0,1,1,1
+University of Central Arkansas,Conway,AR,1,1,1,1
+University of Central Florida,Orlando,FL,1,1,1,1
+University of Central Missouri,Warrensburg,MO,1,1,0,0
+University of Central Oklahoma,Edmond,OK,1,1,0,0
+University of Cincinnati,Cincinnati,OH,1,1,1,1
+University of Colorado,Aurora,CO,1,1,1,1
+University of Colorado at Colorado Springs,Colorado Springs,CO,1,1,1,1
+University of Connecticut,Storrs,CT,1,1,1,1
+University of Delaware,Newark,DE,1,1,1,1
+University of Detroit Mercy,Detroit,MI,1,1,1,1
+University of Dubuque,Dubuque,IA,1,0,0,0
+"University of Findlay, The",Findlay,OH,1,0,0,0
+University of Florida,Gainesville,FL,1,0,1,1
+University of Hartford,West Hartford,CT,1,1,0,0
+University of Hawaii at Hilo,Hilo,HI,0,0,1,0
+University of Hawaii at Manoa,Honolulu,HI,1,1,1,0
+University of Houston,Sugar Land,TX,1,1,0,0
+University of Houston-Downtown,Houston,TX,1,0,0,0
+University of Houston-Victoria,Victoria,TX,1,0,0,0
+University of Illinois at Chicago,Chicago,IL,1,1,1,1
+University of Indianapolis,Indianapolis,IN,1,1,1,1
+University of Iowa Hospitals and Clinics,Iowa City,IA,0,0,0,0
+"University of Iowa, The",Iowa City,IA,1,1,1,1
+University of Jamestown,Jamestown,ND,1,0,0,0
+University of Kansas,Kansas City,KS,1,1,1,0
+"University of Kansas Health System, Kansas City Division, The",Kansas City,KS,0,0,0,0
+University of Kentucky,Lexington,KY,1,1,1,1
+University of Louisiana at Lafayette,Lafayette,LA,1,0,1,0
+University of Louisiana at Lafayette,Lafayette,LA,0,0,0,0
+"University of Louisiana at Monroe, The",Monroe,LA,1,1,0,0
+University of Louisville,Louisville,KY,1,1,1,1
+University of Louisville Hospital,Louisville,KY,0,0,0,0
+University of Lynchburg,Lynchburg,VA,1,0,0,0
+University of Maine,Orono,ME,1,1,0,1
+University of Maine at Fort Kent,Fort Kent,ME,1,0,0,0
+University of Mary,Bismarck,ND,1,1,1,0
+University of Mary Hardin-Baylor,Belton,TX,1,1,0,1
+University of Mary Washington,Fredericksburg,VA,1,0,0,0
+University of Maryland,Baltimore,MD,1,1,1,1
+University of Maryland Global Campus,Adelphi,MD,1,0,0,0
+University of Massachusetts Amherst,Amherst,MA,1,1,1,1
+University of Massachusetts Boston,Boston,MA,1,1,1,1
+University of Massachusetts Dartmouth,North Dartmouth,MA,1,1,1,0
+University of Massachusetts Global,Irvine,CA,1,0,1,0
+University of Massachusetts Lowell,Lowell,MA,1,1,1,0
+University of Massachusetts Medical School,Worcester,MA,0,1,1,1
+University of Memphis,Memphis,TN,1,1,0,1
+University of Miami,Coral Gables,FL,1,1,1,1
+University of Michigan - Ann Arbor,Ann Arbor,MI,1,1,1,1
+University of Michigan - Flint,Flint,MI,1,1,1,1
+University of Minnesota,Minneapolis,MN,1,1,1,1
+University of Mississippi Medical Center,Jackson,MS,1,1,1,1
+University of Missouri - Columbia,Columbia,MO,1,1,1,1
+University of Missouri - Kansas City,Kansas City,MO,1,1,1,1
+University of Missouri - St. Louis,St. Louis,MO,1,0,1,1
+University of Mobile,Mobile,AL,1,1,1,1
+University of Mount Olive,Mount Olive,NC,1,1,0,0
+University of Mount Union,Alliance,OH,1,0,0,0
+University of Nebraska Medical Center,Omaha,NE,1,1,1,1
+"University of Nevada, Las Vegas",Las Vegas,NV,1,1,1,1
+"University of Nevada, Reno",Reno,NV,1,1,1,1
+University of New Hampshire,Durham,NH,1,1,1,1
+University of New Mexico,Albuquerque,NM,1,1,1,1
+University of North Alabama,Florence,AL,1,1,0,1
+University of North Carolina at Chapel Hill,Chapel Hill,NC,1,1,1,1
+"University of North Carolina at Charlotte, The",Charlotte,NC,1,1,0,1
+"University of North Carolina at Charlotte, The",Charlotte,NC,0,0,0,0
+University of North Carolina at Greensboro,Greensboro,NC,1,1,1,0
+University of North Carolina at Pembroke,Pembroke,NC,1,1,0,0
+University of North Carolina at Wilmington,Wilmington,NC,1,1,1,1
+University of North Dakota,Grand Forks,ND,1,1,1,1
+University of North Florida,Jacksonville,FL,1,0,1,0
+University of Northern Colorado,Greeley,CO,1,1,1,1
+University of Northwestern - St. Paul,St. Paul,MN,1,0,0,0
+"University of Oklahoma Health Sciences Center, The",Oklahoma City,OK,1,1,1,1
+University of Pennsylvania,Philadelphia,PA,1,1,1,1
+University of Phoenix,Phoenix,AZ,1,1,1,0
+University of Pittsburgh,Pittsburgh,PA,1,1,1,1
+University of Portland,Portland,OR,1,0,1,0
+University of Providence,Great Falls,MT,1,1,0,0
+University of Puerto Rico,San Juan,PR,1,1,0,0
+University of Rhode Island,Kingston,RI,1,1,1,1
+University of Rochester,Rochester,NY,1,1,1,0
+University of Saint Francis,Fort Wayne,IN,1,1,1,1
+University of Saint Joseph,West Hartford,CT,1,1,1,1
+University of Saint Mary,Leavenworth,KS,1,1,0,0
+University of San Diego,San Diego,CA,0,1,1,0
+University of San Francisco,San Francisco,CA,1,1,1,1
+University of Scranton,Scranton,PA,1,1,1,1
+University of Sioux Falls,Sioux Falls,SD,1,0,0,0
+University of South Alabama,Mobile,AL,1,1,1,1
+University of South Carolina,Columbia,SC,1,1,1,1
+University of South Carolina Aiken,Aiken,SC,1,0,0,0
+University of South Carolina Beaufort,Bluffton,SC,1,0,0,0
+University of South Carolina Upstate,Spartanburg,SC,1,1,0,0
+"University of South Dakota, The",Sioux Falls,SD,1,0,0,0
+University of South Florida,Tampa,FL,1,1,1,0
+University of Southern California,Los Angeles,CA,0,1,0,0
+University of Southern Indiana,Evansville,IN,1,1,1,1
+University of Southern Maine,Portland,ME,1,1,1,1
+"University of Southern Mississippi, The",Hattiesburg,MS,1,0,1,1
+University of St. Augustine for Health Sciences,San Marcos,CA,0,1,1,1
+University of St. Francis,Joliet,IL,1,1,1,1
+University of St. Thomas - TX,Houston,TX,1,1,1,1
+"University of Tampa, The",Tampa,FL,1,1,0,1
+University of Tennessee at Chattanooga,Chattanooga,TN,1,1,1,1
+"University of Tennessee Health Science Center, The",Memphis,TN,1,0,1,0
+"University of Tennessee Southern, The",Pulaski,TN,1,0,0,0
+"University of Tennessee, Knoxville",Knoxville,TN,1,0,1,1
+University of Texas at Arlington,Arlington,TX,1,1,1,1
+University of Texas at Austin,Austin,TX,1,1,1,1
+University of Texas at El Paso,El Paso,TX,1,1,1,1
+University of Texas at Tyler,Tyler,TX,1,1,1,1
+"University of Texas Health Science Center at Houston, The",Houston,TX,1,1,1,1
+University of Texas Health Science Center at San Antonio,San Antonio,TX,1,1,1,1
+University of Texas Medical Branch at Galveston,Galveston,TX,1,1,1,0
+University of Texas Medical Branch Health System,Galveston,TX,0,0,0,0
+"University of Texas of the Permian Basin, The",Odessa,TX,1,0,0,0
+University of Texas Rio Grande Valley,Edinburg,TX,1,1,0,1
+University of the Cumberlands,Williamsburg,KY,1,1,0,0
+University of the Incarnate Word,San Antonio,TX,1,1,1,1
+University of Toledo,Toledo,OH,1,1,1,1
+University of Toledo,Toledo,OH,0,0,0,0
+University of Toledo Consortium,Toledo,OH,1,0,0,0
+University of Utah,Salt Lake City,UT,1,1,1,1
+"University of Vermont, The",Burlington,VT,1,1,1,1
+University of Virginia,Charlottesville,VA,1,1,1,0
+"University of Virginia's College at Wise, The",Wise,VA,1,0,0,0
+University of Washington,Seattle,WA,1,1,1,1
+University of West Florida,Pensacola,FL,1,1,0,0
+University of West Georgia,Carrollton,GA,1,1,0,0
+"University of Wisconsin, Eau Claire",Eau Claire,WI,1,1,1,0
+"University of Wisconsin, Green Bay",Green Bay,WI,1,1,0,0
+"University of Wisconsin, Madison",Madison,WI,1,0,1,1
+"University of Wisconsin, Milwaukee",Milwaukee,WI,1,1,1,1
+"University of Wisconsin, Oshkosh",Oshkosh,WI,1,1,1,0
+"University of Wisconsin, Stevens Point",Stevens Point,WI,1,0,0,0
+University of Wyoming,Laramie,WY,1,1,1,0
+Upper Iowa University,Cedar Rapids,IA,1,0,0,0
+Ursuline College,Pepper Pike,OH,1,1,1,1
+Utica University,Utica,NY,1,1,0,1
+UW Health,Madison,WI,0,0,0,0
+VA Ann Arbor Healthcare System,Ann Arbor,MI,0,0,0,0
+VA Boston Healthcare System,West Roxbury,MA,0,0,0,0
+VA Connecticut Healthcare System,West Haven,CT,0,0,0,0
+VA North Texas Health Care System,Dallas,TX,0,0,0,0
+VA Northern California Health Care System,Mather,CA,0,0,0,0
+VA Portland Health Care System,Portland,OR,0,0,0,0
+VA Puget Sound Health Care System,Seattle,WA,0,0,0,0
+VA Salt Lake City Health Care System,Salt Lake City,UT,0,0,0,0
+Valdosta State University,Valdosta,GA,1,1,0,1
+Valencia College,Orlando,FL,1,0,0,0
+Valparaiso University,Valparaiso,IN,1,1,1,0
+Vanderbilt University,Nashville,TN,0,1,1,1
+Vanguard University of Southern California,Costa Mesa,CA,1,1,0,0
+Villanova University,Villanova,PA,1,1,1,1
+Virginia Commonwealth University,Richmond,VA,1,1,1,1
+Virginia Commonwealth University Medical Center,Richmond,VA,0,0,0,0
+Viterbo University,LaCrosse,WI,1,0,1,0
+Walden University,Minneapolis,MN,1,1,1,1
+Walla Walla University,College Place,WA,1,0,0,0
+Walsh University,North Canton,OH,1,1,1,1
+Warner Pacific University,Portland,OR,1,0,0,0
+Washburn University,Topeka,KS,1,1,1,1
+Washington Adventist University,Takoma Park,MD,1,1,0,0
+Washington State University,Spokane,WA,1,1,1,0
+Wayne State University,Detroit,MI,1,1,1,0
+Waynesburg University,Waynesburg,PA,1,1,1,0
+Wenatchee Valley College,Wenatchee,WA,1,0,0,0
+Wesleyan College,Macon,GA,1,0,0,0
+West Chester University,West Chester,PA,1,1,1,0
+West Coast University,Irvine,CA,1,1,1,1
+West Liberty University,West Liberty,WV,1,0,0,0
+West Texas A & M University,Canyon,TX,1,1,0,1
+West Virginia University,Morgantown,WV,1,1,1,1
+West Virginia Wesleyan College,Buckhannon,WV,1,1,1,0
+Western Carolina University - Cullowhee,Cullowhee,NC,1,1,0,1
+Western Carolina University - Cullowhee,Cullowhee,NC,0,0,0,0
+Western Connecticut State University,Danbury,CT,1,1,0,1
+Western Governors University,Salt Lake City,UT,1,1,0,0
+Western Illinois University,Macomb,IL,1,0,0,0
+Western Kentucky University,Bowling Green,KY,1,1,1,1
+Western Michigan University,Kalamazoo,MI,1,1,0,0
+Western New Mexico University,Silver City,NM,1,0,0,0
+Western University of Health Sciences,Pomona,CA,0,1,1,1
+Western Washington University,Bellingham,WA,1,0,0,0
+Westfield State University,Westfield,MA,1,0,0,0
+Westminster College - PA,New Wilmington,PA,1,0,0,0
+Westminster College - UT,Salt Lake City,UT,1,1,1,0
+Wheeling University,Wheeling,WV,1,1,0,1
+Wichita State University,Wichita,KS,1,1,1,0
+Widener University,Chester,PA,1,1,1,1
+Wilkes University,Wilkes Barre,PA,1,1,1,1
+William Carey University,Hattiesburg,MS,1,1,0,0
+William Jewell College,Liberty,MO,1,0,0,0
+William Paterson University of New Jersey,Wayne,NJ,1,1,1,1
+William Peace University,Raleigh,NC,1,0,0,0
+William Penn University,Oskaloosa,IA,1,0,0,0
+Wilmington University,New Castle,DE,1,1,1,1
+Winona State University,Winona,MN,1,1,1,1
+Winston-Salem State University,Winston-Salem,NC,1,1,1,1
+Wisconsin Lutheran College,Milwaukee,WI,1,0,0,0
+Wittenberg University,Springfield,OH,1,0,0,0
+Wm. S. Middleton Memorial Veterans Hospital,Madison,WI,0,0,0,0
+Worcester State University,Worcester,MA,1,1,0,0
+World Mission University,Los Angeles,CA,1,0,0,0
+Wright State University,Dayton,OH,1,1,0,0
+Xavier University,Cincinnati,OH,1,1,1,1
+Yale University,Orange,CT,0,1,1,1
+York College of Pennsylvania,York,PA,1,1,0,1
+Youngstown State University,Youngstown,OH,1,1,0,1
