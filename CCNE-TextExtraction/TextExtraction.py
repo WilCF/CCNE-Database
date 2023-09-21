@@ -59,13 +59,22 @@ def getDegreeTypes(file):
     return degreeTypes
 
 
+# Gets website link (Note! When passing to zipCode algorithm,
+# Error will produce since it'll get the NEXT school's info -> Manually fix
+def getWebsite(line):
+    link = line.split("href=")[1].split(">")[0]
+    return link
+
+
 # Opens text file
 with open("rawHTML.txt", "r") as file, open("localDatabase.txt", "w") as dataBase:
     # Locations where INFO is kept, use SINGLE QUOTES!! (interferes with text)
     textBreak = ['<td valign="top" style="width: 50%;padding-right:15px">']
 
     # Array -> Send to Database. Form: [uni,city,state, 0, 0,0BSN,MSN,DNP]
-    storage = ["uni", "city", "state", "0", "0", "0", "0", "0", "0"]
+    storage = ["uni", "city", "state", "zip", "url", "0", "0", "0", "0"]
+    dataBase.write("University Name,City,State,Zip,URL,Bachelors,Masters,DNP,Post-Grad")
+    dataBase.write("\n")
 
     finishedIterating = False
 
@@ -94,7 +103,6 @@ with open("rawHTML.txt", "r") as file, open("localDatabase.txt", "w") as dataBas
             # Check that University doesn't have a comma, since exporting to .csv format
             if line.find(",") != -1:
                 line = '"' + line + '"'
-                print(line)
 
             print("University: ", line)
 
@@ -102,12 +110,18 @@ with open("rawHTML.txt", "r") as file, open("localDatabase.txt", "w") as dataBas
             storage[0] = line
 
             # Get next 2 lines (CITY, STATE!)
-            # line = nextLine(file)
-            # line = nextLine(file)
+            #   Note ~ If school does NOT have website link. It'll grab the
+            #          NEXT school's info. This is on purpose bc the zipCode
+            #          API throws school-not-found error, and you'll know
+            #          exactly which school does not have website link.
+            #          Then you can manually add it afterwards.There's
+            #          probably a way to automatically do this, but idk.
             line = nextLine(file)
             while line.find("href=") == -1:
                 line = nextLine(file)
-            countBR = 1  # Unused VAR, remove.
+
+            # Get website link
+            websiteLink = '"' + getWebsite(line) + '"'
 
             # Remove unwanted strings (ONLY need 3rd index from line)
             # FORM: X<br>X<br>INFO<br>X<br>
@@ -122,9 +136,11 @@ with open("rawHTML.txt", "r") as file, open("localDatabase.txt", "w") as dataBas
             # Send to storage (later inserted to database)
             storage[1] = city
             storage[2] = state
+            storage[4] = websiteLink
 
             print("City: ", storage[1])
             print("State: ", storage[2])
+            print("Website: ", storage[4])
 
             # TODO: Algorithm to find each degree type offered by each school
             accreditations = getDegreeTypes(file)
@@ -138,14 +154,14 @@ with open("rawHTML.txt", "r") as file, open("localDatabase.txt", "w") as dataBas
             print("     Post-Graduate APRN Certificate: ", storage[8])
 
             # Writes to local database
-            dataBase.write(storage[0]+","+storage[1]+","+storage[2]+",")
-            dataBase.write(storage[3]+","+storage[4]+","+storage[5]+",")
-            dataBase.write(storage[6]+","+storage[7]+","+storage[8])
+            dataBase.write(storage[0]+","+storage[1]+","+storage[2]+","+storage[3]+",")
+            dataBase.write(storage[4]+","+storage[5]+","+storage[6]+",")
+            dataBase.write(storage[7]+","+storage[8])
 
             dataBase.write("\n")
 
             # Restore defaults & start again
-            storage = ["uni", "city", "state", "0", "0", "0", "0", "0", "0"]
+            storage = ["uni", "city", "state", "zip", "url", "0", "0", "0", "0"]
 
             print("\n")
         else:
